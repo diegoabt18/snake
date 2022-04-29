@@ -1,13 +1,27 @@
 # SNAKE :snake:
-![image](https://user-images.githubusercontent.com/47578861/165870628-00aaa573-1149-4802-a485-b5807d990887.png)
+
+<img width="100%" src="https://user-images.githubusercontent.com/47578861/165870628-00aaa573-1149-4802-a485-b5807d990887.png"/>
+
 
 # INSTALACIÓN 🔧
 
-CLona el repositorio
+Clona el repositorio
 
 ```
-git clone
+git clone https://github.com/diegoabt18/snake.git
 ```
+
+Una vez clonado ejecuta el comando para inicar el proyecto
+
+```
+python main.py
+```
+
+Si no  tienes instalada la libreria numpy ejecuta el siguiente comando
+```
+pip install numpy
+```
+Y listo
 
 # CONSTRUCCIÓN
 
